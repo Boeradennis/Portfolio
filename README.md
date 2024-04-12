@@ -1,6 +1,6 @@
 # Portfolio
 Personal Portfolio
-# Personal Portfolio Website- Dennis Boear
+# Personal Portfolio Website- Dennis Boera
 
 This folder contains the source code and files for my personal portfolio website. The website is built using HTML, CSS, and JavaScript.
 
