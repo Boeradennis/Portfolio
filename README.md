@@ -1,6 +1,6 @@
 # Portfolio
 Personal Portfolio
-# Personal Portfolio Website- : INT831E-Dennis Boera
+# Personal Portfolio Website- : INT841E-Dennis Boera
 
 This folder contains the source code and files for my personal portfolio website. The website is built using HTML, CSS, and JavaScript.
 
